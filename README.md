@@ -5,5 +5,7 @@
 File .env harus dengan format berikut:
 
 JDBC_URL="urldb"
+
 JDBC_USER="user"
+
 JDBC_PASSWORD="password"
